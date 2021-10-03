@@ -1,0 +1,17 @@
+::placeholder {
+  color: white;
+  opacity: 1;
+}
+
+:-ms-input-placeholder {
+  color: white;
+}
+
+::-ms-input-placeholder {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
